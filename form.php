@@ -13,7 +13,7 @@ class Form
 
     /* Constructor: User passes in the name of the script where
     *   form data is to be sent ($actionValue) and the value to
-     * display on the submit buttin.
+     * display on the submit button
      */
     function __construct($actionValue, $submit)
     {
